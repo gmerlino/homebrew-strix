@@ -1,4 +1,4 @@
-# Gmerlino Strix
+# Homebrew formula for Strix
 
 ## How do I install these formulae?
 
